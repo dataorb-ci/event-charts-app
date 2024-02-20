@@ -9,14 +9,14 @@
     }
   },
   "appType": "APP",
-  "name": "DataOrb event visualizer app",
+  "name": "DHIS2 event visualizer app",
   "version": "33.0.34",
   "description": "Event charts app",
   "developer": {
-    "name": "DataOrb visualization team"
+    "name": "DHIS2 visualization team"
   },
   "icons": {
     "48": "icon.png"
   },
-  "manifest_generated_at": "Wed May 10 2023 07:08:50 GMT+0000 (Coordinated Universal Time)"
+  "manifest_generated_at": "Wed Nov 22 2023 11:13:35 GMT+0000 (Coordinated Universal Time)"
 }
