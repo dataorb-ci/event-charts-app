@@ -9,11 +9,11 @@
     }
   },
   "appType": "APP",
-  "name": "DHIS2 event visualizer app",
+  "name": "DataOrb event visualizer app",
   "version": "33.0.34",
   "description": "Event charts app",
   "developer": {
-    "name": "DHIS2 visualization team"
+    "name": "DataOrb visualization team"
   },
   "icons": {
     "48": "icon.png"
